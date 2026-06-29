@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/markers/144
+seq: 144
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc020_tls_001-p72.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup66, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR3fc020_tls_001-p72.s2}
+  - {type: line-break, offset: 16, content: '', id: KX_2_dup72, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 32, content: '', id: KR3fc020_tls_001-p72.s3}
+  - {type: line-break, offset: 32, content: '', id: KX_3_dup72, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 43, content: '', id: KR3fc020_tls_001-p72.s4}
+  - {type: line-break, offset: 43, content: '', id: KX_4_dup72, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR3fc020_tls_001-p72.s5}
+  - {type: line-break, offset: 61, content: '', id: KX_5_dup70, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 63, content: '', id: KR3fc020_tls_001-p72.s6}
+  - {type: line-break, offset: 63, content: '', id: KX_6_dup70, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 73, content: '', id: KR3fc020_tls_001-p72.s7}
+  - {type: line-break, offset: 73, content: '', id: KX_7_dup70, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 89, content: '', id: KR3fc020_tls_001-p72.s8}
+  - {type: line-break, offset: 89, content: '', id: KX_8_dup70, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 105, content: '', id: KR3fc020_tls_001-p72.s9}
+  - {type: line-break, offset: 105, content: '', id: KX_9_dup70, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 121, content: '', id: KR3fc020_tls_001-p72.s10}
+  - {type: line-break, offset: 121, content: '', id: KX_10_dup70, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 130, content: '', id: KR3fc020_tls_001-p72.s12}
+  - {type: line-break, offset: 130, content: '', id: KX_12_dup70, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 148, content: '', id: KR3fc020_tls_001-p72.s13}
+  - {type: line-break, offset: 148, content: '', id: KX_13_dup70, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 153, content: '', id: KR3fc020_tls_001-p72.s14}
+  - {type: line-break, offset: 153, content: '', id: KX_14_dup70, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 163, content: '', id: KR3fc020_tls_001-p72.s15}
+  - {type: line-break, offset: 163, content: '', id: KX_15_dup69, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 179, content: '', id: KR3fc020_tls_001-p72.s16}
+  - {type: line-break, offset: 179, content: '', id: KX_16_dup69, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 195, content: '', id: KR3fc020_tls_001-p72.s17}
+  - {type: line-break, offset: 195, content: '', id: KX_17_dup69, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 211, content: '', id: KR3fc020_tls_001-p72.s18}
+  - {type: line-break, offset: 211, content: '', id: KX_18_dup65, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 218, content: '', id: KR3fc020_tls_001-p72.s19}
+  - {type: line-break, offset: 218, content: '', id: KX_19_dup65, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 236, content: '', id: KR3fc020_tls_001-p72.s20}
+  - {type: line-break, offset: 236, content: '', id: KX_20_dup65, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 243, content: '', id: KR3fc020_tls_001-p72.s21}
+  - {type: line-break, offset: 243, content: '', id: KX_21_dup68, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:a31c121419530cc5e3f04a7a79e612dc8b47db2560cd7d012b34ebd3be2dec13

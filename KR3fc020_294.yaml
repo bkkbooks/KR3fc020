@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/294
+seq: 294
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 面各幾何答曰大方面八十四步中方面六十八步小方面五十二步術曰列云數三約之得中方面六十八步立天元一為較加入中方面為大方面自之為大方積又列較步減中方面餘為小方面自之為小方積又列中方面自乘為中方積三位併得寄左列積與寄左相消得開方數式平方開之得較一十六步加中方面得大方面中方面減較即小方面也今有古徽密率圓田各一段共積五十六百七十一步五十分步之十三只云古徑不及密徑七步密徑不及徽徑七步問三圓徑各幾何答曰古徑四十二步密徑四十九步
+  hash: sha256:738e9a04dbd2e5a89f9cf0bffb38dc4c520aa2372375aab50c99116a9a6fe636
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:6d6ee985c98c8d1f6790454055619591699b9e7e54e94c60584618dc5d62bdae

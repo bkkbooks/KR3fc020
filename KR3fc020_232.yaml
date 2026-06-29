@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/232
+seq: 232
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰列積六之得九萬一千八十為實以二為從方三為從廉一為隅法開立方除之合問今有四角垛果子積二萬九千三百七十箇問底子一面幾何答曰四十四箇術曰列積三之得八萬八千一百一十為實以半箇為從方一箇半為從廉一為隅法開立方除之合問今有立圓積二千三百四寸問為立圓徑幾何答曰一尺六寸術曰列積寸以十六乘之九而一得四千九十六寸為實以一為隅法開立方除之即得合問今有三角四角果子各一所共積六百八十五箇只云三角底子一面不及四角底子一面七箇問二色底子一面各幾何答曰三角底面五箇
+  hash: sha256:96ed368c6286adec23c5d2448cbebe2a2a43348166dfdcdd2e450e02ef724f6a
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:6525c399d9d5eddeb952d6e92537fce44a0a2307ee043198c3739164aae0b32e

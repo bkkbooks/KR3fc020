@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/290
+seq: 290
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 餘一千二百六十八歩又云小方羃內減大方面餘七百四十八歩問大小方面各幾何答曰大方面三十六歩小方面二十八歩術曰立天元一爲小方面自乘內減又云數爲大方面自之爲大方羃寄左又列小方面加入先云數亦爲大方羃與寄左相消三乘方飜法開之得開方式得小方面加入先云數共得一千二百九十六爲實一爲廉平方開之得大方面合問今有直積二千六十五歩只云較乘和得二千二百五十六歩問長平各幾何答曰平三十五歩長五十九歩術曰立天元一爲平自之爲平羃式
+  hash: sha256:209a76caa8b4e4e245bd472e894f3e239ddd24d8c1a95de41ae7aa32a17e3968
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:51e31c515771327aff0c875796b7d552df6fc6d7dc5f2d3ef103a500c475b001

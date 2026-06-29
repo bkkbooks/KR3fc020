@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/154
+seq: 154
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有錢二十九貫六百八十七文五分共買密蠟一百四十六斤六兩只云蠟斤價三百八十文密斤價六十八文問各幾何答曰密八十三斤二兩蠟六十三斤四兩術曰列密蠟共數斤下留兩以蠟斤價乘之得五十五貫六百二十二文五分內減今有錢餘二十五貫九百三十五文為實列密蠟斤價相減餘三百一十二文為法實如法而一得密斤下分者身外價六為兩反減共數餘即蠟也合問今有粟米一十七碩三升直錢一十九貫四百三文之云粟㪷價七十五文米㪷價一百六十四文問各幾何答曰米七碩四㪷五升粟九碩五㪷八升術曰列粟米共數以粟㪷價乘之得一十
+  hash: sha256:d32c6042a7317da8eb852d21aa0e3adb6d57b3c7180a5a019e192ede58d4dec9
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:26cf6da7e6c4e38e48fe300a0165c6fb96d699c6f4da41cf645858dc0119d9bc

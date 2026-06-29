@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/286
+seq: 286
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五之七而一得田方和問今有直積一千二十四歩只云平除長長除平二數相併得四歩二分半問長平各幾何答曰平一十六歩長六十四歩術曰立天元一爲小平減云數餘爲小長以小平乘之爲小積與小積一筭相消得開方式平方開之得小平二分五釐再立天元一爲大長以乘小平爲大平以大長乘之爲大積式與元積相消得開方式平方開之得大長以小平乘之卽大平合問今有直積四千九十六歩只云長除平平除長二數相減餘三歩七分半問長平各幾何答曰平三十二歩長一百二十八歩
+  hash: sha256:17d1230a8133ca3c8dbeb4567e261a22bb8f76684fea760397d6bcfe449491ff
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:f3647f92558aa3f1a7548c495526f2ddde4d9f43457dda3df17d51bb3e78e27d

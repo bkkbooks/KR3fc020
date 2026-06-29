@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金序守全南道全州府尹案明史列傳二百八朝鮮傳王京為朝鮮八道之中東阻鳥嶺忠州西則南原全州道相通又嘉靖八年八月陪臣柳溥上言國祖李旦係本國全州人據此則全當時全字趙序續撰重羌案羌當作差重差見九章序趙城亢鎮案亢當作元玉鑑祖序趙元鎮已與之版而行矣元鎮者博雅之士也九歸除法歌括四一二十一案二十一據數當為二十二九歸除法弟二十七問易䐉幾何案集韻䐉側吏側持二切訓肥貌與問不協據上文當作腦折變互差弟十三問小字雙行注石下倍之案上文右上得二千此則石下當作右下折變互差弟十五問
+  hash: sha256:75bf7944ee76ee1fbb7a320d571ed4ff097337afce4cb83b6d61b66922de50c1
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:b84cfacd0b4f1b74cbe03a98190bf061418453867eb9ac0dfdabcd3a0337bd9f

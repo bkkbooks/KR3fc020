@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/174
+seq: 174
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十七分尺之一百五十五絲一千五十三斤四百二十七分斤之三百乙六十九錦四百六十八匹一丈二尺四百二十七分尺之一百二十四絲八百四十三斤四百二十七分斤之三十丙九錦三百七十四匹二丈二尺四百二十七分尺之二百七十絲六百七十四斤四百二十七分斤之二百丁二錦二百九十九匹二丈四尺四百二十七分尺之二百一十六絲五百三十九斤四百二十七分斤之二百戊四十七錦二百三十九匹二丈六尺四百二十七分尺之二絲四百三十一斤四百二十七分斤之二百已八十三錦一百九十一匹二丈七尺四百
+  hash: sha256:2d4d88de075dfdf94dd7ee946cb392903e4ee6521bc55106ffc165b9de399b64
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:810969e86b66dbb8d99f025894cb24dde053ee886f93308b39abed2320ae6c8f

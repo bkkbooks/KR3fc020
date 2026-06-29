@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/72
+seq: 72
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰二萬貫術曰列白檀共數斤下留兩於上以四貫九十六文乘之合問今有黍三千六百六十二碩一㪷九合三勺七抄五撮每㪷對麥八升一合九勺二抄問對麥幾何答曰三萬㪷術曰列共黍於上以八升一合九勺二抄乘之合問今有粟七萬八千一百二十五碩每㪷爲御米五升一合二勺問米幾何答曰四萬碩術曰列共粟於上以五升一合二勺乘之合前問今有降眞二十四萬四千一百四十斤一十兩每斤直銀二錢四厘八毫問直銀幾何答曰五萬兩術曰列降眞共數斤下留兩於上以二錢四厘八毫乘之合問
+  hash: sha256:2462fef40d0ce27a3e8bc97e2e78c7c1c7183fbe2cd3f7e2d139c612724acd69
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:4fdecd7b98f91fc435d3ea6c0ea9e01bc19debed006c9c3688ae4aa7cb71b583

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/274
+seq: 274
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十四步問較步幾何答曰十八步術曰立天元一為較加入云數為二長又列云數內減一較餘為二平式二長二平增乘起為四段積寄左列畒通步內子四之與寄左相消得開方式平方開之得較合問今有直田畒九分只云長平差二十五步問長平各幾何答曰平二十四步長四十九步術曰立天元一為平加入云數為長以平乘起為積寄左列畒通步與寄左相消得開放式平方開之得平加差即長合問今有直田六畒一十六步只云長平較三十步問長平和幾何答曰和八十二步術曰李天元一為和加入云數為二
+  hash: sha256:d1b17ba1e7667cbe8f03694f4ede3c2fb7563e36fa790abedd5eec4dc7ea22d6
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:8f1dbf0723a0cd8809dbf974425617f13ce236d5723d52b7f3ea5ea5f2696b3b

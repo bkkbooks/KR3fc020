@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/32
+seq: 32
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以十六乘之減云數案云數非減數據術以字錯簡當在乘之之下作以減云數開方釋鎖弟十九問小積式案下層天元羃一負當超二位與中層四天元正上下相齊原式誤未超位開方釋鎖弟二十問開方式案中層方三歩七分半當爲負誤作正開方釋鎖弟二十一問以減較歩餘爲小方面案較非本數據術以減當作內減直積式案中層十七天元當爲負誤作正開方釋鎖弟二十四問又加差羃得方式案下層天元羃四當爲正誤作負開方釋鎖弟二十五問又列較歩減中方面案較爲天元無歩數也又中方面非減數據術歩當作以求差分和弟四問補交換一隻而秤之案
+  hash: sha256:25caea3ef7c6e5db42ee4bfb5e1040f2c9afe5b79d8773275630439344c44dd2
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:79f1b69805a8782dfa0816d42bf83d23bbfa59e7eff09d95e5ec705d9d040a30

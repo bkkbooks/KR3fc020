@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 計三卷共二十門凡二百五十九問上卷八門一百一十三問縱横因法門八門身外加法門十一問留頭乘法門二十問身外減法門十一問九歸除法門二十九問異乘同除門八門庫務解稅門十一問折變互差門十五問中卷七門七十一問田畒形段門十六問倉囤積粟門九問雙據互換門六問求差分和門九門差分均配門十問商功修築門十三問貴賤反率門八問下卷五門七十五問之分齊同門九問堆積還源門十四問盈不足術門九問方程正負門九問開放釋鎻門三十四問新編筭學啓蒙目錄終
+  hash: sha256:644a6fff24eeb046bd12e64caebf4e57beac7de50d36166bddbaca5ca6d4e906
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:b102eb058bb315fc5581603b0b4a7fc36dd12992d129ed437dd406cd1bb9fee8

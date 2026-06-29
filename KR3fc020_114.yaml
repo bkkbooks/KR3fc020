@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/114
+seq: 114
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰列錢數為實併三色斤價得五百八十四文為法實如法而一得等重也合問今有錢七千四百九十一貫八百九十文欲買綾羅絹綾匹價一十二貫七百六十文羅匹價九貫八百九十四文絹匹價七百六十六文須要綾一羅二絹三買之問三色各幾何答曰綾二百一十五匹羅四百三十匹絹六百四十五匹術曰列錢數為實二之羅價三之絹價加入綾價共併得三十四貫八百四十六文為法實如法而一得綾副置上位倍之為羅下位三之為絹合問今有羅一十匹二丈六尺欲染大紅只云內出羅四尺五寸換花染得一丈五尺五寸問出羅染羅各幾何匹法三十二尺
+  hash: sha256:a7adb9527ae3db98edfe9facffd4b4e1fdbcb1aa492284372bd6fa7c9151f615
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:f52d0e0cfb41938526c56af1d750ebc41affdbc661b32ded3a0bc61b0879daa2

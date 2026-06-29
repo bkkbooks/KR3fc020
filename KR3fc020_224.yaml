@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/224
+seq: 224
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十八為法實如法而一得一兩不滿法者命之合問今有田濶一十三分步之九長一十八分步之十一問為田幾何答曰二十六分步之十一術曰依列分毋相乘得二百三十四圖布算為法分子相乘得九十九為實實如法而一不滿法者各九約之合問今有錢三百四十六貫八百文買絲二百九十八斤問斤價幾何答曰一貫一百六十三文一百四十九分文之一百一十三術曰列錢數於上為實以絲數為法實如法而一不滿法者各半之合問今有絲二百九十八斤斤價一貫一百六十三文一百四十九分文之一百一十三問直錢幾何答曰三百四十六貫八百文術曰列共絲於上斤價通分內子得一十七萬三千四百以乘上位得五千一百六
+  hash: sha256:657b8ed0ed3152c15e3a31e8a12473ec5aea33d98d31e64eb54cfebac46d67ef
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:142f73c14c1623aecef37b7f2aa5115c4a2c9bc47cb4d2f23e53b1fdf4effbb0

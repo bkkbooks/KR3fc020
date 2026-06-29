@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/284
+seq: 284
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 段方積寄左又列圓徑自之三因亦爲四段圓積内減寄左再寄列畒通歩内子四之與再寄相消得開方式平方開之得圓徑内減倍之云數餘卽池方合問今有方田内有圓池占之外餘地二畒六歩只云四角徑各長九歩九分問池徑田方各幾何答曰池徑一十八歩甲方二十七歩術曰立天元一爲池徑加入倍之云數爲方斜就分五之爲七段方田自之爲四十九段方積就分四之爲一百九十六段方積也寄左又列圓徑自之三因爲四段圓就以四十九乘之亦爲一百九十六段圓積以減寄左再寄列畒通歩内子以一百九十六乘之與再寄相消得開方數式平方開之得池徑加入倍之角徑
+  hash: sha256:d5cd143e1b586fb46b5fb5e206c0fd925ea1230fcf507b52fda46d78de6c1a56
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:ac656e2f95b6f8ebebc46413137f4605af40aac62d3340e8dfe7ec428ef67493

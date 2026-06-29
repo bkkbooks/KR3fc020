@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/310
+seq: 310
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 積以三千六百乘之爲三千六百段平方積又列立方面减三尺爲徽圓徑也也自之又周一百五十七乘之爲二百段積以十八乘之爲三千六百又列古圓周卽立方面自之段徽圓積爲十二段積以三百乘之爲三千六百段古圓積又列立方面再自乘爲一段積以三千六百乘之爲三千六百段立方積寄左列五位併之得積通分內子以十八乘之與立方開之寄左相消得開方式得立方面古圓周等數也加四尺得立圓徑三之爲平方面又列立方面減三尺卽徽圓徑也合問新編筭學啓蒙卷終
+  hash: sha256:e12b2d05d8953d8af047e87bf85886216de85da95aba7db1b040e40737e7002c
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:3b39a5b57a539285375e712811051ba9fc1b2a1b462b3d1888c8fe87f55f424a

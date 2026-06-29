@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/296
+seq: 296
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 微徑五十六歩術曰立天元一爲古徑自之三因爲四段古積就以七百乘之爲二千八百段古積又列古徑加七歩爲宻率徑自之又二十二乘之爲二十八段宻率就以一百乘爲二千八百段密積也又列宻徑加七歩爲微徑自之又以一百五十七乘之爲二百段微術就以十四乘三位之亦爲二千八百段徽積也併之寄位列積五千六百七十一歩通分內子以五十六乘之與寄位相消得開平方開之得古徑加七方數式得宻徑又加七得微徑也今有圓田一段周爲實平方開之得數加入圓積共得一百一十四歩問周徑各幾何答曰周三十六歩徑一十二歩
+  hash: sha256:c5cd95c6e27cadafec77abc2205bf4889ec3f5368d455544e5b78afe83dc20b6
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:27b0b45029965e10deecce6e3b6b3b08c156467b2b101016fed28c309ebc01da

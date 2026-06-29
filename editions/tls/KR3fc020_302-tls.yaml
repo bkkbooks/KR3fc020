@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/302
+seq: 302
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自之又高乘之爲三段方錐積數也寄左列積三之與寄左相消得開三乘方開之得六尺爲方式開平方數加少如得下方二十八尺又六尺自之卽高合問今有圓錐積三千七十二尺只云高爲實立方開之得數不及下周六十一尺問下周及高各幾何答曰下周六十四尺高二十七尺術曰立天元一爲開立方數再自乘爲高也再列開立方數加不及爲下周也自之又高乘之爲三十六段積寄左列積三十六乘之與寄左相四乘方開之消得開方式得三尺爲開立方之數加不及得下周六十四尺又列三尺再自乘得高二十七尺合問今有立方立圓平方各一共積一百二十七萬七千七百二十四尺只云立圓
+  hash: sha256:3ff918112ce00abba91d74f5291faaedc8ad708722066cfa9816e391e4defdbf
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:f9d56a63ef7b0ac8728bf147cd25b1bdcb0526efbf59d093d2e8b93673e6d280

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二門有中統至元時市廛日用及市舶司之稅價尤足以資元初交易之攷證焉大清道光十九年已亥九月揚州予告大大學士太子太保在籍食俸阮元序
+  hash: sha256:c580d4b9503c8f92f885d87bca71d0f53f89ebf175f93b53dafa84aad0e04fb0
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:42eadb82190784684f79099f93e589e330fd4bdb1d3b7113e2d9c81efa2a8649

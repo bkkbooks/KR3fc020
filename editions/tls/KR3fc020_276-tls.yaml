@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/276
+seq: 276
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 長別列和以減云數餘爲二平以二長二平增乘起爲四段積寄左列畒通歩內子四之與寄左相消得開方式平方開之得和合問今有方圓田各一段共地九畒四分五釐只云方田面與圓田徑適等問方面圓徑各幾何答曰方面圓徑各三十六歩術曰立天元一爲方面亦爲圓徑自之爲方積寄左又列圓徑之三因四而一爲圓積加入寄左得式再寄列畒通歩與再寄相消得開方式平方開之得方面圓徑合問今有方圓田各一段共地七畒二十八歩只云方面不及圓徑一十三歩問圓徑方面各幾何答曰圓徑三十八歩方面二十五歩術曰立天元一爲圓徑減不及餘爲
+  hash: sha256:44ebe495f6e5329049ee7558a12ebccfc2fc5e9acc84838fcaf15a7a6b23a4db
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:3e32d2f91e6b1be60d1439414980d1dc1c0802b2165386c6effe60d3ea9caa19

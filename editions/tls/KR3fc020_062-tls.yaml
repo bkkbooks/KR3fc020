@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有鹽八百七十三袋每袋價錢一十三貫文問計錢幾何答曰一萬一千三百四十九貫今有地三頃二十四畒每畒納粮一升四合問計粮幾何答曰四碩五㪷三升六合今有木香一百九十八秤每秤重一十五斤問爲斤幾何答曰二千九百七十斤今有黃蠟三千八百五十斤每斤重一十六兩問爲兩幾何答曰六萬一千六百兩今有柑子四百三十六枚每枚價錢一十七文問計錢幾何答曰七貫四百一十二文今有軍人三千二百七十名每名支粮一碩八㪷問計粮幾何答曰五千八百八十六碩今有雞三百四十五隻每隻價錢一百九十文問計錢幾何
+  hash: sha256:42ce66462d39eac30995d83f7e2b2e4754a9ff6363ac4b086a9544f038d38e9f
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:35e60e34c3edfec1bb63a5428fb4eabbb7ff133b4d23f0c23471da271c09ae98

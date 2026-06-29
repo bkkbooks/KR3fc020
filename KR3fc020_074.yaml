@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/74
+seq: 74
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有鹽一千九百二十引每引換黃蠟三十一斤四兩問換黃蠟幾何答曰六萬斤術曰列共鹽引數於上以三十一斤二分半乘之合問今有細絲一千九百五十三斤二兩每斤直銀一兩一十一銖八絫四黍問直銀幾何答曰七萬銖術曰列細絲共數斤下留兩於上列一兩以二十四銖通之內子共得三十五銖八絫四黍乘之合問今有黃金一萬二千八百兩每兩買地六畒二分五厘問買地幾何答曰八萬畒術曰列金數於上以六畒二分五厘乘之合前問今有田一百五十六頃二十五畒每畒收稻五斛七㪷六升問收稻幾何答曰九萬斛
+  hash: sha256:9eebd7526b02cecced49af6c6674eb90ffc2407a1b1a9b6cf8255cd41cb12e5b
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:03b0566bceb73c3ff3bdf7b310dba4b271af3a8034dd50ff5ec7beae6610bb45

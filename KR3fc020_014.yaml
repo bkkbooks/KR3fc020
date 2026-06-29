@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莫過乎此是書一出允為算法之標準四方之學者歸焉將見拔茅連茹以備淸朝之選云大德已亥七月既望惟揚學算趙城亢鎮序
+  hash: sha256:339bd182dfd08672c527b59866418a2516be0c5e6de08477529d9a8e3672eccb
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:4310afb24139955b59659af25c4ab6665a0bd1b962ba817864d410a0b0659ceb

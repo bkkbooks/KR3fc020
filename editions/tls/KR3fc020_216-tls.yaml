@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/216
+seq: 216
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不盡一萬九千六十四乃賤價也反減下法餘九千六百一十六卽貴價四之得三萬八千四百六十四以鈞斤兩銖法約之得三鈞一十斤二兩一十六銖其不盡一萬九千六十四五之得九萬五千三百二十以石斤兩銖法除之得二石八斤三兩一十六銖合問新編筭學啓蒙卷中
+  hash: sha256:0cbeb836f1f583d4167d795cef773f14f5b623e68b3bf28dff02f7aba5fc38fd
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:b2caa50828da8ae70f1515073e83d45aca54ec44249416cf9c930af541c34608

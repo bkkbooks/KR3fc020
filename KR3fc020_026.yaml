@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc020/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明正負術其同名相減則異名相加正無人負之負無人正之其異名相減則同名相加正無人正之負無人負之按九章注云兩算得失相返要令正負以名之正算赤負算黑不則以邪正為異其無人者為無對也無所得減則使消奪者居位也人作入非明乘除段長平相併曰和長平相減曰較長平相乘曰積自相乘之曰羃同名相乘為正異名相乘為負平除長為小長長除平為小平小長平相併曰小和小長平相減餘小較小長平相乘得一步為小積明開方法置積為實及方廉隅同加異減開之新編算學啓蒙總括終
+  hash: sha256:1a9ae123cd568b80501f3ba9cf1f828f0d6c36c56f04406966bc4ac022f2704c
+metadata:
+  title: 新編算學啟蒙/總括
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc020.xml
+hash: sha256:d2b87fcf9ca12aab27e2426139c01e06e133886838dc5657330e676d9bc884a4
