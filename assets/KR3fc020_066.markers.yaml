@@ -31,14 +31,12 @@ markers:
   - {type: line-break, offset: 163, content: '', id: KX_14_dup31, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 171, content: '', id: KR3fc020_tls_001-p33.s15}
   - {type: line-break, offset: 171, content: '', id: KX_15_dup30, _xml_error: duplicate-id, _xml_original_id: KX_15}
-  - {type: substitution, offset: 176, original: 秤, replacement: 稱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3901}}
   - {type: 'tls:seg', offset: 189, content: '', id: KR3fc020_tls_001-p33.s16}
   - {type: line-break, offset: 189, content: '', id: KX_16_dup30, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 194, content: '', id: KR3fc020_tls_001-p33.s17}
   - {type: line-break, offset: 194, content: '', id: KX_17_dup30, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 204, content: '', id: KR3fc020_tls_001-p33.s18}
   - {type: line-break, offset: 204, content: '', id: KX_18_dup27, _xml_error: duplicate-id, _xml_original_id: KX_18}
-  - {type: substitution, offset: 208, original: 秤, replacement: 稱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3901}}
   - {type: 'tls:seg', offset: 220, content: '', id: KR3fc020_tls_001-p33.s19}
   - {type: line-break, offset: 220, content: '', id: KX_19_dup27, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg', offset: 236, content: '', id: KR3fc020_tls_001-p33.s20}
@@ -46,4 +44,4 @@ markers:
   - {type: 'tls:seg', offset: 249, content: '', id: KR3fc020_tls_001-p33.s21}
   - {type: line-break, offset: 249, content: '', id: KX_21_dup29, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:2fa99e709839ed6cd668da9aa4ce5777097bb066d7469bf6d062a9937c47c48c
+hash: sha256:be8111947b4b4f31bd378a2700b74e322d73c6dee658676af1ce236ab3f78f8d
