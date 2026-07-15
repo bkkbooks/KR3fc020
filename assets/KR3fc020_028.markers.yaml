@@ -9,6 +9,7 @@ markers:
   - {type: line-break, offset: 2, content: '', id: KX_3_dup14, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 17, content: '', id: KR3fc020_tls_001-p14.s4}
   - {type: line-break, offset: 17, content: '', id: KX_4_dup14, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 23, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 33, content: '', id: KR3fc020_tls_001-p14.s5}
   - {type: line-break, offset: 33, content: '', id: KX_5_dup12, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 49, content: '', id: KR3fc020_tls_001-p14.s6}
@@ -27,6 +28,7 @@ markers:
   - {type: line-break, offset: 124, content: '', id: KX_13_dup12, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 130, content: '', id: KR3fc020_tls_001-p14.s14}
   - {type: line-break, offset: 130, content: '', id: KX_14_dup12, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 142, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 146, content: '', id: KR3fc020_tls_001-p14.s15}
   - {type: line-break, offset: 146, content: '', id: KX_15_dup12, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 155, content: '', id: KR3fc020_tls_001-p14.s16}
@@ -42,4 +44,4 @@ markers:
   - {type: 'tls:seg', offset: 215, content: '', id: KR3fc020_tls_001-p14.s21}
   - {type: line-break, offset: 215, content: '', id: KX_21_dup11, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:8419e0ffd294c1ef848711ece60b9c8569418762b43960a9229381c86e4c149f
+hash: sha256:3837eb31e27092030f89c23c58d94f7349a353a70a6e74c8cd750011d6d8ea62
